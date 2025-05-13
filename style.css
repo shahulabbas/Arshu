@@ -6,6 +6,7 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   background: url('images.png') repeat;
+
   animation: confetti 10s infinite linear;
 }
 
@@ -64,7 +65,7 @@ button:hover {
 /* Modal */
 .modal {
   display: none;
-  position: fixed;
+  position: absolute;
   z-index: 999;
   left: 50%;
   top: 50%;
