@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: url('https://i.imgur.com/qP6eSoU.png') repeat;
+  background: url('./images.png') repeat;
   animation: confetti 10s infinite linear;
 }
 
